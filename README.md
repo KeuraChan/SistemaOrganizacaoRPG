@@ -6,18 +6,18 @@
   Aqui apresentado estão as representações de alto nível das telas que serão desenvolvidas.
   
  ## O que já foi feito
-  Tela principal;__
-  Tela de Usuário;__
-  Tela da Mesa ;__
-  Tela de Login;__
-  Tela de Logon;__
-  "Segredo" na Tela de Usuário;__
-  Responsividade das páginas¹__
+  Tela principal;
+  Tela de Usuário;<br/>
+  Tela da Mesa ;<br/>
+  Tela de Login;<br/>
+  Tela de Logon;<br/>
+  "Segredo" na Tela de Usuário;<br/>
+  Responsividade das páginas¹<br/>
   
-  ¹É ainda necessário mexer nas páginas que utilizam de styleLogin para melhorar sua transição de responsividade.__
+  ¹É ainda necessário mexer nas páginas que utilizam de styleLogin para melhorar sua transição de responsividade.
  
  ## A se fazer:
-  Implementar a API de DnD disponível em: https://www.dnd5eapi.co/docs/; __
-  Melhor Responsividade das telas.__
-  Mudar o Card de usuário.__
+  Implementar a API de DnD disponível em: https://www.dnd5eapi.co/docs/; <br/>
+  Melhor Responsividade das telas.<br/>
+  Mudar o Card de usuário.<br/>
   Ter foto de usuário;
